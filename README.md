@@ -8,8 +8,8 @@ Kullanıcı adı ve şifre giriş alanları
 Şifreyi unuttum bağlantısı
 Giriş butonu
 
-Türkçe
+Türkçe:
 Bu HTML dosyası, basit bir giriş sayfasını temsil etmektedir. Kullanıcı adı ve şifre giriş alanları, şifreyi unuttum bağlantısı ve giriş butonu bulunmaktadır.
 
-English
+English:
 This HTML file represents a simple login page. It includes fields for username and password input, a forgot password link, and a login button.
